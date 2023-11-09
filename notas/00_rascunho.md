@@ -62,7 +62,6 @@ CRISP-DM Agile: Vertical Slicing:
 
 ![Alt text](img/crispdm-agile.png)
 
-
 ## [[1.1] Agile Data Science](https://www.datascience-pm.com/agile-data-science/)
 
 Simply put, Agile Data Science merges Agile philosophies with data science practices.
@@ -81,7 +80,6 @@ Although Agile’s underlying philosophy is the same for data science as in othe
     - Improved Communication: Agile focuses on individuals, collaboration, and clear communication. As data science teams scale and become more diverse, the benefits of effective communication also increase — both within the team and with the stakeholders.
 
 ## [[1.2] CRISP-DM – a Standard Methodology to Ensure a Good Outcome](https://www.datasciencecentral.com/crisp-dm-a-standard-methodology-to-ensure-a-good-outcome/)
-
 
 ## [[1.3] Comparing Data Science Project Management Methodologies via a Controlled Experiment](https://scholarspace.manoa.hawaii.edu/server/api/core/bitstreams/07ccfe0d-2ab8-44ce-945a-6a02da486468/content) (2017)
 

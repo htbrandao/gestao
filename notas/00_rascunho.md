@@ -62,6 +62,7 @@ CRISP-DM Agile: Vertical Slicing:
 
 ![Alt text](img/crispdm-agile.png)
 
+
 ## [[1.1] Agile Data Science](https://www.datascience-pm.com/agile-data-science/) (2023)
 
 Simply put, Agile Data Science merges Agile philosophies with data science practices.
@@ -78,6 +79,7 @@ Although Agile’s underlying philosophy is the same for data science as in othe
     - Real Feedback: By soliciting feedback on the functional product, the data scientists can more accurately assess whether their deliverables work “in the wild”. Meanwhile, the product manager can assess whether the deliverables provide the intended business value.
     - Cut Losses Early: No matter what you do, some data science projects simply fail. The sooner you get feedback that you’re headed to failure, the sooner you can pivot to related objectives or kill off the project.
     - Improved Communication: Agile focuses on individuals, collaboration, and clear communication. As data science teams scale and become more diverse, the benefits of effective communication also increase — both within the team and with the stakeholders.
+
 
 ## [[1.2] CRISP-DM – a Standard Methodology to Ensure a Good Outcome](https://www.datasciencecentral.com/crisp-dm-a-standard-methodology-to-ensure-a-good-outcome/) (2016)
 
@@ -96,38 +98,65 @@ In our recent article ([1.2.1](#121-3-tips-for-getting-the-most-out-of-your-data
 
 For non-Traditional modeling projects like Deep Learning or Sentiment Analysis, all these projects need to be evaluated for their ability to generalize in the real world.  So yes, CRISP-DM provides strong guidance for even the most advanced of today’s data science activities.
 
+
 ## [[1.2.1]  3 Tips for Getting the Most Out of Your Data Science Team](https://www.datasciencecentral.com/3-tips-for-getting-the-most-out-of-your-data-science-team/) (2016)
+
+1) Common Platform: There’s no longer a place for the lone wolf data scientist in an advanced analytics shop.  That almost assuredly means that you’ve needed to drive them toward a common advanced analytics platform.  Could be R or Python, or it could be SAS, SPSS, or one of the other proprietaries, but you can’t have everybody doing their own thing. Unless everybody’s speaking the same language the communication will suffer, meaning fewer minds can share a problem and that there’s less supervision and collaboration. 
+
+2) Common Methodology: All data scientists are originally raised with certain principles and these are most commonly embodied in the CRISP-DM methodology (Cross Industry Standard Process for Data Mining).  I had the pleasure of helping to develop this back in the 90s and there’s nothing magic here, just good common sense.  But unless you have an agreed methodology and enforce it, you won’t know who is cutting corners and with what consequences.
+
+3) How Much Accuracy Do You Need? Start keeping some metrics and figure out how long it is taking for your data scientists to produce models. Some problems are tougher than others but you can figure out the categories and which are comparable. The question is at what point did the cost of that increase in accuracy break even with the business value?  In many modeling situations especially those that involve buying behavior the breakeven is fairly straightforward to calculate.
+
 
 ## [[1.3] Comparing Data Science Project Management Methodologies via a Controlled Experiment](https://scholarspace.manoa.hawaii.edu/server/api/core/bitstreams/07ccfe0d-2ab8-44ce-945a-6a02da486468/content) (2017)
 
+
+
+
 ## [[1.4] Big data team process methodologies: A literature review and the identification of key factors for a project's success](https://ieeexplore.ieee.org/abstract/document/7840936) (2017)
+
 
 ## [[1.5] Predicting data science sociotechnical execution challenges by categorizing data science projects](https://asistdl.onlinelibrary.wiley.com/doi/abs/10.1002/asi.23873) (2017)
 
+
 ## [[2] ???](https://www.sv-europe.com/crisp-dm-methodology/#one)
+
 
 ## [[3] ???](https://medium.com/international-school-of-ai-data-science/project-management-in-data-science-using-crisp-dm-54ee35a5f4f3)
 
+
 ## [[4] ???](https://www.datascience-pm.com/crisp-dm-for-data-science-teams-5-actions-to-consider/)
+
 
 ## [[5] ???](https://agilethought.com/blogs/scaling-data-science-use-crisp-dm-agile/)
 
+
 ## [[6] ???](https://www.cognilytica.com/how-to-apply-crisp-dm-to-ai-and-big-data-projects/)
+
 
 ## [[7] ???](https://www.cognilytica.com/why-cant-i-use-agile-or-crisp-dm-to-manage-ai-and-data-projects/)
 
+
 ## [[8] ???](https://www.sydle.com/br/blog/pmbok-61e80383f41fbf069eb3ef2b)
+
 
 ## [[9] ???](https://blog.ipog.edu.br/engenharia-e-arquitetura/ser-gerente-de-projetos-6-dicas-para-se-tornar-um/)
 
+
 ## [[10] ???](https://blog.aevo.com.br/pmbok/)
 
-## [[99] ???]()
 
 ## [[99] ???]()
 
-## [[99] ???]()
 
 ## [[99] ???]()
 
+
 ## [[99] ???]()
+
+
+## [[99] ???]()
+
+
+## [[99] ???]()
+

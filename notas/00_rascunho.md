@@ -119,51 +119,68 @@ modeling, assessing. While these process models differ in details, at a high lev
 
 ![](img/131-what-worked-well.png)
 
-Perhaps a bit surprisingly, the Agile Scrum methodology was actually worse than the Baseline condition. Why not Agile Scrum? First, it was a difficult process for a team to fully utilize. In addition, task estimation was very difficult. Why was Agile Kanban effective? Perhaps it was due to its’ culture of continuous improvement. Why was the CRISP model effective? It was a very natural way of conducting the projects: understanding, analysis, etc. and making loops/iterations if necessary. It is also interesting to note that the students’ without an assigned methodology started to converge into a CRISP-like methodology
+Perhaps a bit surprisingly, the Agile Scrum methodology was actually worse than the Baseline condition. Why not Agile Scrum? First, it was a difficult process for a team to fully utilize. In addition, task estimation was very difficult. Why was Agile Kanban effective? Perhaps it was due to its’ culture of continuous improvement. Why was the CRISP model effective? It was a very natural way of conducting the projects: understanding, analysis, etc. and making loops/iterations if necessary. It is also interesting to note that the students’ without an assigned methodology started to converge into a CRISP-like methodology.
 
 ## [[1.4] Big data team process methodologies: A literature review and the identification of key factors for a project's success](https://ieeexplore.ieee.org/abstract/document/7840936) (2017)
 
+> paywall
+
 
 ## [[1.5] Predicting data science sociotechnical execution challenges by categorizing data science projects](https://asistdl.onlinelibrary.wiley.com/doi/abs/10.1002/asi.23873) (2017)
+
+> paywall
 
 
 ## [[2] ???](https://www.sv-europe.com/crisp-dm-methodology/#one)
 
 
+
 ## [[3] ???](https://medium.com/international-school-of-ai-data-science/project-management-in-data-science-using-crisp-dm-54ee35a5f4f3)
+
 
 
 ## [[4] ???](https://www.datascience-pm.com/crisp-dm-for-data-science-teams-5-actions-to-consider/)
 
 
+
 ## [[5] ???](https://agilethought.com/blogs/scaling-data-science-use-crisp-dm-agile/)
+
 
 
 ## [[6] ???](https://www.cognilytica.com/how-to-apply-crisp-dm-to-ai-and-big-data-projects/)
 
 
+
 ## [[7] ???](https://www.cognilytica.com/why-cant-i-use-agile-or-crisp-dm-to-manage-ai-and-data-projects/)
+
 
 
 ## [[8] ???](https://www.sydle.com/br/blog/pmbok-61e80383f41fbf069eb3ef2b)
 
 
+
 ## [[9] ???](https://blog.ipog.edu.br/engenharia-e-arquitetura/ser-gerente-de-projetos-6-dicas-para-se-tornar-um/)
+
 
 
 ## [[10] ???](https://blog.aevo.com.br/pmbok/)
 
 
-## [[99] ???]()
-
 
 ## [[99] ???]()
 
 
+
 ## [[99] ???]()
 
 
+
 ## [[99] ???]()
+
+
+
+## [[99] ???]()
+
 
 
 ## [[99] ???]()

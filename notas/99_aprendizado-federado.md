@@ -1,11 +1,6 @@
 # Aprendizado Federado
 
-[99]
 
+? aprendizado federado vs lgdp
 
-
-___
-
-### Referências:
-- [[99](localhost)] xpto
-- 
+## [[99] xpto](localhost) (9999):

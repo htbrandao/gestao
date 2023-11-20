@@ -62,7 +62,7 @@ CRISP-DM Agile: Vertical Slicing:
 
 ![Alt text](img/crispdm-agile.png)
 
-## [[1.1] Agile Data Science](https://www.datascience-pm.com/agile-data-science/)
+## [[1.1] Agile Data Science](https://www.datascience-pm.com/agile-data-science/) (2023)
 
 Simply put, Agile Data Science merges Agile philosophies with data science practices.
 
@@ -79,13 +79,24 @@ Although Agile’s underlying philosophy is the same for data science as in othe
     - Cut Losses Early: No matter what you do, some data science projects simply fail. The sooner you get feedback that you’re headed to failure, the sooner you can pivot to related objectives or kill off the project.
     - Improved Communication: Agile focuses on individuals, collaboration, and clear communication. As data science teams scale and become more diverse, the benefits of effective communication also increase — both within the team and with the stakeholders.
 
-## [[1.2] CRISP-DM – a Standard Methodology to Ensure a Good Outcome](https://www.datasciencecentral.com/crisp-dm-a-standard-methodology-to-ensure-a-good-outcome/)
+## [[1.2] CRISP-DM – a Standard Methodology to Ensure a Good Outcome](https://www.datasciencecentral.com/crisp-dm-a-standard-methodology-to-ensure-a-good-outcome/) (2016)
 
+To ensure quality in your data science group, make sure you’re enforcing a standard methodology.
 
+The process or methodology of CRISP-DM is described in these six major steps:
 
+    1) Business Understanding: Focuses on understanding the project objectives and requirements from a business perspective, and then converting this knowledge into a data mining problem definition and a preliminary plan.
+    2 )Data Understanding: Starts with an initial data collection and proceeds with activities in order to get familiar with the data, to identify data quality problems, to discover first insights into the data, or to detect interesting subsets to form hypotheses for hidden information.
+    3) Data Preparation: The data preparation phase covers all activities to construct the final dataset from the initial raw data.
+    4) Modeling: Modeling techniques are selected and applied.  Since some techniques like neural nets have specific requirements regarding the form of the data, there can be a loop back here to data prep.
+    5) Evaluation: Once one or more models have been built that appear to have high quality based on whichever loss functions have been selected, these need to be tested to ensure they generalize against unseen data and that all key business issues have been sufficiently considered.  The end result is the selection of the champion model(s).
+    6) Deployment: Generally this will mean deploying a code representation of the model into an operating system to score or categorize new unseen data as it arises and to create a mechanism for the use of that new information in the solution of the original business problem.  Importantly, the code representation must also include all the data prep steps leading up to modeling so that the model will treat new raw data in the same manner as during model development.
 
+In our recent article ([1.2.1](#121-3-tips-for-getting-the-most-out-of-your-data-science-team-2016)) about getting the most out of your data science team, we argued that if you are responsible for a data science group, one of your main tools for quality and efficiency is to ensure that a common methodology is being used.
 
+For non-Traditional modeling projects like Deep Learning or Sentiment Analysis, all these projects need to be evaluated for their ability to generalize in the real world.  So yes, CRISP-DM provides strong guidance for even the most advanced of today’s data science activities.
 
+## [[1.2.1]  3 Tips for Getting the Most Out of Your Data Science Team](https://www.datasciencecentral.com/3-tips-for-getting-the-most-out-of-your-data-science-team/) (2016)
 
 ## [[1.3] Comparing Data Science Project Management Methodologies via a Controlled Experiment](https://scholarspace.manoa.hawaii.edu/server/api/core/bitstreams/07ccfe0d-2ab8-44ce-945a-6a02da486468/content) (2017)
 

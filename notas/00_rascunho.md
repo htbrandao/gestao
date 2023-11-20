@@ -60,7 +60,7 @@ A process model that serves as the base for a data science process. It has six s
 
 CRISP-DM Agile: Vertical Slicing:
 
-![Alt text](img/crispdm-agile.png)
+![](img/1-crispdm-agile.png)
 
 
 ## [[1.1] Agile Data Science](https://www.datascience-pm.com/agile-data-science/) (2023)
@@ -110,8 +110,16 @@ For non-Traditional modeling projects like Deep Learning or Sentiment Analysis, 
 
 ## [[1.3] Comparing Data Science Project Management Methodologies via a Controlled Experiment](https://scholarspace.manoa.hawaii.edu/server/api/core/bitstreams/07ccfe0d-2ab8-44ce-945a-6a02da486468/content) (2017)
 
+Step-by-step view on how to do data science has not materially evolved in the past 20 years. For example, they are similar to the KDD (Knowledge Discovery in Databases) process described  nearly twenty years ago [9]. In another example, the CRISP-DM (Cross Industry Standard Process for Data Mining) might also be viewed as a possible first step towards defining a data science methodology. CRISP-DM was established in the 1990s, and is a data mining process model for data mining experts [10]. The model mentions six high-level phases: business understanding, data understanding, data preparation, modeling, evaluation, and deployment. SEMMA [11] is the second most popular methodology, and consist of tasks such as: sampling, exploring, modifying,
+modeling, assessing. While these process models differ in details, at a high level they are broadly similar. We note though that no model seems to have achieved wide acceptance. For example, there has been a reported decrease within the KDD community of people using CRISP-DM and SEMMA, and an increase in people using their own methodology [12].
 
+![](img/131-project-results.png)
 
+![](img/131-student-perceptions.png)
+
+![](img/131-what-worked-well.png)
+
+Perhaps a bit surprisingly, the Agile Scrum methodology was actually worse than the Baseline condition. Why not Agile Scrum? First, it was a difficult process for a team to fully utilize. In addition, task estimation was very difficult. Why was Agile Kanban effective? Perhaps it was due to its’ culture of continuous improvement. Why was the CRISP model effective? It was a very natural way of conducting the projects: understanding, analysis, etc. and making loops/iterations if necessary. It is also interesting to note that the students’ without an assigned methodology started to converge into a CRISP-like methodology
 
 ## [[1.4] Big data team process methodologies: A literature review and the identification of key factors for a project's success](https://ieeexplore.ieee.org/abstract/document/7840936) (2017)
 

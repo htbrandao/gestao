@@ -332,19 +332,19 @@ There are six primary CPMAI phases, all of which are iterative and data-centric:
     - Determination of ongoing iteration requirements
 
 
-## [[7] ???](https://www.cognilytica.com/why-cant-i-use-agile-or-crisp-dm-to-manage-ai-and-data-projects/)
+## [[6.2] Why Can’t I use Agile or CRISP-DM to manage AI and Data Projects?](https://www.cognilytica.com/why-cant-i-use-agile-or-crisp-dm-to-manage-ai-and-data-projects/)
+
+> vendendo sua própria metodologia [6.1](#61-what-is-the-cognitive-project-management-for-ai-cpmai-methodology)
+
+## [[7] ???](https://www.sydle.com/br/blog/pmbok-61e80383f41fbf069eb3ef2b)
 
 
 
-## [[8] ???](https://www.sydle.com/br/blog/pmbok-61e80383f41fbf069eb3ef2b)
+## [[8] ???](https://blog.ipog.edu.br/engenharia-e-arquitetura/ser-gerente-de-projetos-6-dicas-para-se-tornar-um/)
 
 
 
-## [[9] ???](https://blog.ipog.edu.br/engenharia-e-arquitetura/ser-gerente-de-projetos-6-dicas-para-se-tornar-um/)
-
-
-
-## [[10] ???](https://blog.aevo.com.br/pmbok/)
+## [[9] ???](https://blog.aevo.com.br/pmbok/)
 
 
 

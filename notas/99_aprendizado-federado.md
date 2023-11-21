@@ -1,6 +1,8 @@
 # Aprendizado Federado
 
 
-? aprendizado federado vs lgdp
+# LGPD
 
-## [[99] xpto](localhost) (9999):
+
+
+# Aprendizado Federado & LGPD

@@ -1,11 +1,5 @@
-# CRISP-DM
-
-[99]
+# CRISP-DM - CRISP-DM Paper (1999)
 
 
 
-___
-
-### Referências:
-- [[99](localhost)] xpto
-- 
+# CRISP-DM - CRISP-DM Step-by-step (2000)

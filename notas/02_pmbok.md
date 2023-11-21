@@ -1,11 +1,1 @@
-# PMBOK
-
-[99]
-
-
-
-___
-
-### Referências:
-- [[99](localhost)] xpto
-- 
+# PMBOK - PMBOK 7th Edition

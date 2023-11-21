@@ -395,8 +395,34 @@ O gerenciamento de projetos PMBOK são conduzidos a partir de 5 subgrupos de pro
 6) Conhecer cursos e certificações de gerenciamento de projetos: ...
 
 
-## [[9] ???](https://blog.aevo.com.br/pmbok/)
+## [[9] Saiba tudo sobre PMBOK](https://blog.aevo.com.br/pmbok/)
 
+Um dos pontos mais importantes do PMBoK para os projetos é que ele facilita a padronização. Assim, as atividades conseguem seguir uma lógica, melhorando todo o fluxo de dados e diminuindo os riscos. O que acaba gerando um aumento nos lucros e um maior controle em todo o resto da organização.
+
+Os conhecimentos trazidos pelo PMBoK possibilitam os gestores a terem uma visão mais clara sobre todo o processo como um todo . Conseguindo assim padronizar processos e tornar a empresa mais eficiente, que gera um ganho de valor e uma melhor percepção do cliente.
+
+Quais são os fatores:
+
+    - Ambiental (e.g.: Fauna e flora)
+    - Físicos e Infraestrutura (e.g.: Acomodação, distância, custos logísticos, etc.)
+    - Humanos e Sociais (e.g.: Cultura da empresa, metodologias existentes)
+    - Tecnológicos (e.g.: Softwares, hardware, etc)
+    - Externos (e.g.: Legislação vigente, normativos)
+
+Os processos trabalhados pelo PMBoK são complexos. Eles trazem uma verdadeira revolução quando implementados. São eles: 
+
+    - Escopo
+    - Tempo
+    - Custos
+    - Qualidade
+    - Aquisições
+    - Recursos humanos
+    - Comunicação
+    - Riscos
+    - Partes stakeholders
+    - Integração
+
+PMBOK consiste de um macroprocesso.
 
 
 ## [[18] ???]()

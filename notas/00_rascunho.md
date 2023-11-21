@@ -207,7 +207,7 @@ This model is an idealised sequence of events. In practice many of the tasks can
     - Final presentation: There will also often be a meeting at the conclusion of the project at which the results are presented to the customer.
 
 
-## [[3] Project Management in Data Science using CRISP-DM]https://medium.com/international-school-of-ai-data-science/project-management-in-data-science-using-crisp-dm-54ee35a5f4f3)
+## [[3] Project Management in Data Science using CRISP-DM](https://medium.com/international-school-of-ai-data-science/project-management-in-data-science-using-crisp-dm-54ee35a5f4f3)
 
 > n/a
 

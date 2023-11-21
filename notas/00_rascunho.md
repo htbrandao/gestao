@@ -242,7 +242,94 @@ How We Use it: At AgileThought, we blend the ideas of CRISP-DM with those of agi
 
 ## [[6.1] What is the Cognitive Project Management for AI (CPMAI) Methodology?](https://www.cognilytica.com/what-is-the-cognitive-project-management-for-ai-cpmai-methodology/)
 
+The Cognitive Project Management for AI (CPMAI) methodology is a vendor-neutral, data-centric, AI-specific, Agile methodology for running and managing AI, ML, and cognitive technology projects. Learn how this methodology is changing and improving the way AI & ML projects are run.
 
+With the experience of thousands of AI projects, Cognilytica identifies 10 major reasons for why AI Projects fail:
+
+1) Applying application development approaches to data-centric AI
+2) Lack of sufficient quantity of data
+3) Lack of sufficient quality of data
+4) ROI Misalignment of AI solution to problem
+5) Lack of planning for continued AI, model, data iteration and lifecycle
+6) Misalignment of real world data and interaction against training data and models
+7) Applying proof of concept thinking to real-world pilots
+8) Underestimating time and cost of the data component of AI projects
+9) Vendor misalignment on promise vs. reality
+10) Overpromising AI capabilities and underdelivering projects
+
+There are six primary CPMAI phases, all of which are iterative and data-centric:
+
+1) CPMAI Phase I: Business Understanding – “Mapping the business problem to the AI solution.”
+2) CPMAI Phase II: Data Understanding – “Getting a hold of the right data to address the problem.”
+3) CPMAI Phase III: Data Preparation – “Getting the data ready for use in a data-centric AI - Project.”
+4) CPMAI Phase IV: Model Development – “Producing an AI solution that addresses the business problem.”
+5) CPMAI Phase V: Model Evaluation – “Determining whether the AI solution meets the real-world and business needs.”
+6) CPMAI Phase VI: Model Operationalization – “Putting the AI solution to use in the real-world, and iterating to continue its delivery of value:”
+
+![Alt text](img/cpmai.png)
+
+1) Phase I: CPMAI uses Cognilytica’s Seven Patterns of AI as a way to shortcut and speed up cognitive projects (Hyper-Personalization, Patterns & Anomalities, Autonomous Systems, Goal-Driven Systems, Predictive Analysis, Conversations & Human Interaction, and Recognition).
+    - What data-centric problem are we attempting to solve?
+    - Should we solve this problem with AI / Cognitive Technology?
+    - What portions of the project require / do not require AI?
+    - What AI pattern(s) are we implementing?
+    - What are the criteria for project success?
+    - What requirements are needed to complete the project iteration?
+    - What are the specific performance or KPI requirements for success for this project iteration?
+    - What other important security, governance, cultural, ethical, and environmental considerations are there for the AI project?
+    - Which of those considerations would be deal-stoppers if they were to have a negative impact?
+    - What skills are necessary for successful project completion?
+
+
+2) Phase II: Aims to address three key data requirements for AI projects: the availability and sources of data to meet business needs, the quality of that data and need for enhancement or augmentation, and the environments in which data is needed for training and real-world inference.
+    - What data are necessary to achieve the objectives?
+    - What is the quantity and quality of our data?
+    - What internal and external data is necessary?
+    - What are the requirements to augment existing data?
+    - What are the requirements for ongoing data gathering and preparation?
+    - What are the requirements for technology for data manipulation and transformation?
+    - What other important data-relevant considerations are there for the AI project, including aspects of data governance, data security, data privacy, data access, data sharing, data storage and other key considerations?
+
+
+3) Phase III: Wrangling data from the sources and transforming it to its required state, data cleansing to eliminate critical data flaws, and data augmentation and enhancement including data labeling to add necessary meaning and context to the data so that AI systems can properly learn from the data.
+    - How must data be transformed to meet requirements?
+    - Implementation of data cleansing, transformation, and manipulation
+    - Iterations of the data engineering pipeline
+    - Means by which data quality can continuously be monitored and evaluated
+    - Use, extension, and modification of third-party data
+    - Human-involved data annotation and manipulation (“labeling”)
+    - Performance of additional data augmentation steps
+    - Creation of data engineering pipelines
+
+4) Phase IV: Focused on selecting the right approaches and algorithms for the model, based on the business requirements, data availability, and performance needs, and we also perform the actions of tuning and configuring the model for optimal performance with hyperparameter tuning, as well as perform necessary model training activities.
+    - Appropriate algorithm selection
+    - Performance of model training activities
+    - Performance of model optimization activities
+    - Determination of appropriate algorithm settings, and hyperparameters
+    - Creation of ensemble models
+    - Use of third-party models or extensions of models
+    - Model development as appropriate for selected machine learning technique
+    - Matching model performance against business requirements
+    - The selection of appropriate infrastructure for model training
+
+5) Phase V: Testing, model performance measurement and improvement, and determining needs for ongoing model iteration, a necessary part of any machine learning project plan.
+    - Does the model meet requirements for accuracy, precision, and other metrics?
+    - Determining and evaluating concerns on overfit and underfit of models
+    - Evaluation of training, validation, and test curves for overall acceptability
+    - Evaluation of models against business Key Performance Indicators (KPIs)
+    - Determination of model suitability with regards to operationalization approach
+    - Determination of means for model monitoring
+    - Determination of means for model iteration and versioning
+
+6) Phase VI: Model deployment, model management, and model governance.
+    - How will this model be used in production / operational environments?
+    - What are the requirements for data flow for a model to be useful?
+    - What are the requirements for performance?
+    - Operationalization of model in different environments
+    - Implementation of model monitoring
+    - Implementation of model versioning and governance
+    - Evaluation of business performance
+    - Determination of ongoing iteration requirements
 
 
 ## [[7] ???](https://www.cognilytica.com/why-cant-i-use-agile-or-crisp-dm-to-manage-ai-and-data-projects/)

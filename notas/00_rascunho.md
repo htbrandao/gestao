@@ -8,12 +8,12 @@ Recortes de sites e artigos (cross-reference).
 
 A process model that serves as the base for a data science process. It has six sequential phases:
 
-    1) Business understanding – What does the business need?
-    2) Data understanding – What data do we have / need? Is it clean?
-    3) Data preparation – How do we organize the data for modeling?
-    4) Modeling – What modeling techniques should we apply?
-    5) Evaluation – Which model best meets the business objectives?
-    6) Deployment – How do stakeholders access the results?
+    1) Business understanding: What does the business need?
+    2) Data understanding: What data do we have / need? Is it clean?
+    3) Data preparation: How do we organize the data for modeling?
+    4) Modeling: What modeling techniques should we apply?
+    5) Evaluation: Which model best meets the business objectives?
+    6) Deployment: How do stakeholders access the results?
 
 - Fase 1: Business understanding
     - Focuses on understanding the objectives and requirements of the project. Aside from the third task, the three other tasks in this phase are foundational project management activities that are universal to most projects:
@@ -131,8 +131,80 @@ Perhaps a bit surprisingly, the Agile Scrum methodology was actually worse than 
 > paywall
 
 
-## [[2] ???](https://www.sv-europe.com/crisp-dm-methodology/#one)
+## [[2] What is the CRISP-DM methodology?](https://www.sv-europe.com/crisp-dm-methodology/#one)
 
+This model is an idealised sequence of events. In practice many of the tasks can be performed in a different order and it will often be necessary to backtrack to previous tasks and repeat certain actions. The model does not try to capture all possible routes through the data mining process.
+
+1) Business understanding:
+
+    - What are the desired outputs of the project?
+        - Set objectives: This means describing your primary objective from a business perspective. There may also be other related questions that you would like to address. For example, your primary goal might be to keep current customers by predicting when they are prone to move to a competitor. Related business questions might be “Does the channel used affect whether customers stay or go?” or “Will lower ATM fees significantly reduce the number of high-value customers who leave?”
+        - Produce project plan: Here you’ll describe the plan for achieving the data mining and business goals. The plan should specify the steps to be performed during the rest of the project, including the initial selection of tools and techniques.
+        - Business success criteria: Here you’ll lay out the criteria that you’ll use to determine whether the project has been successful from the business point of view. These should ideally be specific and measurable, for example reduction of customer churn to a certain level, however sometimes it might be necessary to have more subjective criteria such as “give useful insights into the relationships.” If this is the case then it needs to be clear who it is that makes the subjective judgment.
+    - Assess the current situation:
+        - Inventory of resources: List the resources available to the project including:
+        Personnel (business experts, data experts, technical support, data mining experts)
+        Data (fixed extracts, access to live, warehoused, or operational data)
+        Computing resources (hardware platforms)
+        Software (data mining tools, other relevant software)
+        - Requirements, assumptions and constraints: List all requirements of the project including the schedule of completion, the required comprehensibility and quality of results, and any data security concerns as well as any legal issues. Make sure that you are allowed to use the data. List the assumptions made by the project. These may be assumptions about the data that can be verified during data mining, but may also include non-verifiable assumptions about the business related to the project. It is particularly important to list the latter if they will affect the validity of the results. List the constraints on the project. These may be constraints on the availability of resources, but may also include technological constraints such as the size of data set that it is practical to use for modelling.
+        - Risks and contingencies: List the risks or events that might delay the project or cause it to fail. List the corresponding contingency plans – what action will you take if these risks or events take place?
+        - Terminology: Compile a glossary of terminology relevant to the project. This will generally have two components:
+            - A glossary of relevant business terminology, which forms part of the business understanding available to the project. Constructing this glossary is a useful “knowledge elicitation” and education exercise.
+            - A glossary of data mining terminology, illustrated with examples relevant to the business problem in question.
+        - Costs and benefits: Construct a cost-benefit analysis for the project which compares the costs of the project with the potential benefits to the business if it is successful. This comparison should be as specific as possible. For example, you should use financial measures in a commercial situation.
+    - Determine data mining goals:
+        - Business success criteria: Describe the intended outputs of the project that enable the achievement of the business objectives.
+        - Data mining success criteria: Define the criteria for a successful outcome to the project in technical terms—for example, a certain level of predictive accuracy or a propensity-to-purchase profile with a given degree of “lift.” As with business success criteria, it may be necessary to describe these in subjective terms, in which case the person or persons making the subjective judgment should be identified. 
+    - Produce project plan:
+        - Project plan: List the stages to be executed in the project, together with their duration, resources required, inputs, outputs, and dependencies. Where possible, try and make explicit the large-scale iterations in the data mining process, for example, repetitions of the modelling and evaluation phases. As part of the project plan, it is also important to analyze dependencies between time schedule and risks. Mark results of these analyses explicitly in the project plan, ideally with actions and recommendations if the risks are manifested. Decide at this point which evaluation strategy will be used in the evaluation phase. Your project plan will be a dynamic document. At the end of each phase you’ll review progress and achievements and update the project plan accordingly. Specific review points for these updates should be part of the project plan.
+        - Initial assessment of tools and techniques: At the end of the first phase you should undertake an initial assessment of tools and techniques. Here, for example, you select a data mining tool that supports various methods for different stages of the process. It is important to assess tools and techniques early in the process since the selection of tools and techniques may influence the entire project.
+
+2) Data understanding
+
+    - Initial data collection report: List the data sources acquired together with their locations, the methods used to acquire them and any problems encountered. Record problems you encountered and any resolutions achieved. This will help both with future replication of this project and with the execution of similar future projects.
+    - Data description report: Describe the data that has been acquired including its format, its quantity (for example, the number of records and fields in each table), the identities of the fields and any other surface features which have been discovered. Evaluate whether the data acquired satisfies your requirements.
+        - Distribution of key attributes (for example, the target attribute of a prediction task)
+        - Relationships between pairs or small numbers of attributes
+        - Results of simple aggregations
+        - Properties of significant sub-populations
+        - Simple statistical analyses
+        - Is the data complete (does it cover all the cases required)?
+        - Is it correct, or does it contain errors and, if there are errors, how common are they?
+        - Are there missing values in the data? If so, how are they represented, where do they occur, and how common are they?
+
+3) Data preparation
+
+    - Rationale for inclusion/exclusion: List the data to be included/excluded and the reasons for these decisions.
+    - Data cleaning report: Describe what decisions and actions you took to address data quality problems. Consider any transformations of the data made for cleaning purposes and their possible impact on the analysis results.
+    - Derived attributes: These are new attributes that are constructed from one or more existing attributes in the same record, for example you might use the variables of length and width to calculate a new variable of area.
+    - Generated records: Here you describe the creation of any completely new records. For example you might need to create records for customers who made no purchase during the past year. There was no reason to have such records in the raw data, but for modelling purposes it might make sense to explicitly represent the fact that particular customers made zero purchases.
+    - Merged data: Merging tables refers to joining together two or more tables that have different information about the same objects. For example a retail chain might have one table with information about each store’s general characteristics (e.g., floor space, type of mall), another table with summarised sales data (e.g., profit, percent change in sales from previous year), and another with information about the demographics of the surrounding area. Each of these tables contains one record for each store. These tables can be merged together into a new table with one record for each store, combining fields from the source tables.
+    - Aggregations: Aggregations refers to operations in which new values are computed by summarising information from multiple records and/or tables. For example, converting a table of customer purchases where there is one record for each purchase into a new table where there is one record for each customer, with fields such as number of purchases, average purchase amount, percent of orders charged to credit card, percent of items under promotion etc.
+
+4) Modeling
+
+    - Modelling technique: Document the actual modelling technique that is to be used.
+    Modelling assumptions: Many modelling techniques make specific assumptions about the data, for example that all attributes have uniform distributions, no missing values allowed, class attribute must be symbolic etc. Record any assumptions made.
+    - Test design: Describe the intended plan for training, testing, and evaluating the models. A primary component of the plan is determining how to divide the available dataset into training, test and validation datasets.
+    - Parameter settings: With any modelling tool there are often a large number of parameters that can be adjusted. List the parameters and their chosen values, along with the rationale for the choice of parameter settings.
+    - Models: These are the actual models produced by the modelling tool, not a report on the models.
+    - Model descriptions: Describe the resulting models, report on the interpretation of the models and document any difficulties encountered with their meanings.
+    Model assessment: Summarise the results of this task, list the qualities of your generated models (e.g.in terms of accuracy) and rank their quality in relation to each other.
+    - Revised parameter settings: According to the model assessment, revise parameter settings and tune them for the next modelling run. Iterate model building and assessment until you strongly believe that you have found the best model(s). Document all such revisions and assessments.
+
+5) Evaluation
+    - Assessment of data mining results: Summarise assessment results in terms of business success criteria, including a final statement regarding whether the project already meets the initial business objectives.
+    - Approved models: After assessing models with respect to business success criteria, the generated models that meet the selected criteria become the approved models.
+    - List of possible actions: List the potential further actions, along with the reasons for and against each option.
+    - Decision: Describe the decision as to how to proceed, along with the rationale.
+
+6) Deployment
+
+    - Deployment plan: Summarise your deployment strategy including the necessary steps and how to perform them.
+    - Monitoring and maintenance plan: Summarise the monitoring and maintenance strategy, including the necessary steps and how to perform them.
+    - Final report: This is the final written report of the data mining engagement. It includes all of the previous deliverables, summarising and organising the results.
+    - Final presentation: There will also often be a meeting at the conclusion of the project at which the results are presented to the customer.
 
 
 ## [[3] ???](https://medium.com/international-school-of-ai-data-science/project-management-in-data-science-using-crisp-dm-54ee35a5f4f3)

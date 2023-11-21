@@ -336,8 +336,48 @@ There are six primary CPMAI phases, all of which are iterative and data-centric:
 
 > vendendo sua própria metodologia [6.1](#61-what-is-the-cognitive-project-management-for-ai-cpmai-methodology)
 
-## [[7] ???](https://www.sydle.com/br/blog/pmbok-61e80383f41fbf069eb3ef2b)
+## [[7] PMBOK: o que é e como é utilizado para gestão de projetos?](https://www.sydle.com/br/blog/pmbok-61e80383f41fbf069eb3ef2b)
 
+O PMBOK norteia a gestão, fornecendo dados importantes para que empresas ao redor do mundo sigam direções uniformizadas, para reduzir falhas, melhorar o desempenho e ter uma previsão mais acertada sobre os resultados. Na 7a edição PMBOK: o PMBOK 7 é de 2021 e contempla abordagens ágeis, adaptativas e híbridas, e enfatiza a gestão de projetos orientada a mudanças.
+
+É importante destacar que, embora muitas vezes seja citado assim, o PMBOK não é uma metodologia. O material é, na verdade, um guia de orientação de gerenciamento, mas que deve ser seguido de acordo com as necessidades e aspectos específicos do projeto.
+
+De acordo com as definições do PMBOK, um projeto é um esforço temporário empreendido para criar um produto, serviço ou resultado exclusivo.
+
+O gerenciamento de projetos PMBOK são conduzidos a partir de 5 subgrupos de processos: iniciação, planejamento, execução, monitoramento e controle, e encerramento.
+
+1) Iniciação: Inclui a autorização para dar início ou não, além de definir um escopo inicial, que abrange as primeiras estimativas de custos. É neste processo que o gestor deve identificar as partes interessadas no projeto e começar os passos que antecedem a realização em si. Neste ponto, deve ser desenvolvido um documento que “oficializa a abertura do projeto” e contém informações importantes, que serão utilizadas também nos outros processos.
+
+2) Planejamento: No planejamento, as atividades aumentam e ficam mais específicas. É neste subgrupo que se realizam tarefas como:
+    - Plano de gerenciamento
+    - Definição de escopo
+    - Coleta de requisitos
+    - Desenvolvimento de Estrutura Análitica do Projeto
+    - Definição de cronograma e as atividades de cada etapa
+    - Estimativa do tempo de duração de cada atividade
+    - Estimativa de custos e definição de orçamento
+    - Planejamento da gestão da qualidade e dos recursos disponíveis
+    - Planejamento de comunicações
+    - Identificação de riscos
+
+3) Execução: Esse é grupo de processos em que o gestor de projetos define o que fazer, coordenando recursos humanos e materiais, além de motivar as partes envolvidas no projeto. As informações devem ser distribuídas para a equipe e o gerente deve conduzir todas as aquisições.
+
+4) Monitoramento e Controle: Neste grupo de processos estão as atividades essenciais para avaliar o desempenho do projeto. É o momento de mostrar de onde se partiu e o quanto ainda falta para alcançar o objetivo traçado. esta etapa, ainda é possível fazer mudanças e estabelecer protocolos de alterações, mas sempre garantindo que não haja grandes variações. Esse grupo inclui processos como:
+    - Monitoramento das etapas de trabalho
+    - Controle sobre as mudanças
+    - Validação e controle de escopo
+    - Supervisão de cronograma
+    - Monitoramento dos riscos
+    - Acompanhamento das comunicações
+    - Monitoramento das aquisições
+    - Controle de custos
+    - Reportes de desempenho.
+
+5) Encerramento: O encerramento prevê que os resultados finais estejam alinhados aos parâmetros e critérios definidos anteriormente, com alcance dos objetivos e dos benefícios previstos. Nesse momento, espera-se que os seguintes resultados tenham sido obtidos:
+    - Aceitação do cliente/usuário final
+    - Objetivos do negócio e benefícios previstos atingidos
+    - Objetivos do projeto alcançados
+    - Validação e organização dos materiais usados no projeto
 
 
 ## [[8] ???](https://blog.ipog.edu.br/engenharia-e-arquitetura/ser-gerente-de-projetos-6-dicas-para-se-tornar-um/)
@@ -348,21 +388,12 @@ There are six primary CPMAI phases, all of which are iterative and data-centric:
 
 
 
-## [[99] ???]()
+## [[18] ???]()
 
 
 
-## [[99] ???]()
+## [[19] ???]()
 
 
 
-## [[99] ???]()
-
-
-
-## [[99] ???]()
-
-
-
-## [[99] ???]()
-
+## [[20] ???]()

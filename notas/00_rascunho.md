@@ -380,8 +380,19 @@ O gerenciamento de projetos PMBOK são conduzidos a partir de 5 subgrupos de pro
     - Validação e organização dos materiais usados no projeto
 
 
-## [[8] ???](https://blog.ipog.edu.br/engenharia-e-arquitetura/ser-gerente-de-projetos-6-dicas-para-se-tornar-um/)
+## [[8] Ser gerente de projetos: 6 dicas para se tornar um](https://blog.ipog.edu.br/engenharia-e-arquitetura/ser-gerente-de-projetos-6-dicas-para-se-tornar-um/)
 
+1) Entender as necessidades do momento: Um gerente de projetos deve sempre perguntar “por que” e “para quê” realizar uma determinada atividade. Dessa forma, ele procura entender o que a empresa e a equipe precisam e como atender a demanda de forma satisfatória. Ao realizar este exercício estará realizando o gerenciamento de pessoas (stakeholders) e terá mais possibilidades de crescimento na carreira.
+
+2) Ter capacidade de realização: O gerente de projetos é o líder da equipe e deve sempre pensar as decisões de forma positiva, com flexibilidade e tenacidade na hora de resolver os problemas. Portanto, deve estar sempre preparado para trabalhar no impasse, seja ele qual for, até que se encontre a solução ideal.
+
+3) Ser um gerente de projetos exigente: Um bom gerente de projetos é exigente e detalhista, acompanha todo o trabalho do início ao fim, para garantir que ele realmente seja bem-feito, pois será cobrado pelo resultado de toda equipe.
+
+4) Ter respeito com a equipe: O respeito deve prevalecer em quaisquer situações, portanto, deve-se evitar o conflito entre a equipe, evitando assim a perda de eficiência e produtividade. É importante que o gerente de projetos mantenha sempre a seriedade e serenidade, pois, caso haja excesso de companheirismo e amizade, sua equipe pode não te respeitar e, sem isso, não consegue atingir as suas metas propostas.
+
+5) Valorizar a equipe: O gerente de projetos ao perceber que alguém da sua equipe se superou ou chamou a atenção de forma positiva, deve elogias, um elogio faz com que uma pessoa ou a equipe, trabalhe mais motivada e que produza resultados acima dos esperados.
+
+6) Conhecer cursos e certificações de gerenciamento de projetos: ...
 
 
 ## [[9] ???](https://blog.aevo.com.br/pmbok/)

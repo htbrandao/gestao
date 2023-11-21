@@ -26,5 +26,5 @@
 
 
 # FIXMEs
-- 
+- incluir o ano das publicações em 00_rascunho
 - 

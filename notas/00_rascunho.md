@@ -266,7 +266,7 @@ There are six primary CPMAI phases, all of which are iterative and data-centric:
 5) CPMAI Phase V: Model Evaluation – “Determining whether the AI solution meets the real-world and business needs.”
 6) CPMAI Phase VI: Model Operationalization – “Putting the AI solution to use in the real-world, and iterating to continue its delivery of value:”
 
-![Alt text](img/cpmai.png)
+![Alt text](img/61-cpmai.png)
 
 1) Phase I: CPMAI uses Cognilytica’s Seven Patterns of AI as a way to shortcut and speed up cognitive projects (Hyper-Personalization, Patterns & Anomalities, Autonomous Systems, Goal-Driven Systems, Predictive Analysis, Conversations & Human Interaction, and Recognition).
     - What data-centric problem are we attempting to solve?
@@ -424,13 +424,3 @@ Os processos trabalhados pelo PMBoK são complexos. Eles trazem uma verdadeira r
 
 PMBOK consiste de um macroprocesso.
 
-
-## [[18] ???]()
-
-
-
-## [[19] ???]()
-
-
-
-## [[20] ???]()

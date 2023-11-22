@@ -1,14 +1,12 @@
-# CRISP-DM - CRISP-DM Paper (1999)
+# CRISP-DM - CRISP-DM Paper (1999) & CRISP-DM Step-by-step (2000)
 
-I) Introduction
+**I) Introduction**
 
 ![Alt text](img/crisp1.png)
 
+___
 
-<br><br>
-
-
-II) Reference Model
+**II) Reference Model**
 
 ![Alt text](img/crisp2.png)
 
@@ -101,11 +99,9 @@ actually make use of the created models
         - C) Final Report; and Final Presentation
         - D) Experience Documentation
 
+___
 
-<br><br>
-
-
-III) User Guide
+**III) User Guide**
 
 1) Bsiness Understanding:
     - Beware of setting unattainable goals – make them as realistic as possible;
@@ -135,22 +131,3 @@ III) User Guide
 
 6) Deployment:
     - Develop and evaluate alternative plans for deployment;
-
-
-
-
-<br><br><br><br>
-
-
-
-
-
-# CRISP-DM - CRISP-DM Step-by-step (2000)
-
-I) Introduction
-
-II) Reference Model
-
-III) User Guide
-
-IV) Outputs

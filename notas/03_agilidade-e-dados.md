@@ -70,3 +70,48 @@ ___
 
 
 <!-- https://unibb.alura.com.br/course/product-management-desenvolvimento-produtos -->
+
+## Gestão de Produtos
+
+Usabilidade vs Negócio vs Tecnolgia
+
+- Atuação:
+    - Pesquisa de mercado
+    - Gerar um produto de qualidade
+    - Entender o público
+
+Produto: Conjunto de bens e serviços que resultam da atividade produtiva.
+
+Gerar um bem de valor vendável e distribuível. O ciclo de vida pode ser dividido em: Introdução; crescimento; maturidade; e declínio. Assim, tem que criar estratégias para manter o produto na fase da maturidade.
+
+Design Thinking: Método para estimular ideação e perspicácia ao abordar problemas, relacionados a futuras aquisições de informações, análise de conhecimento e propostas de soluções.
+
+Modelo de Duplo Diamante:
+
+![Alt text](img/ddiamante.png)
+
+
+Relizar pesquisa para descobrir sobre o mercado, pessoas e métodos.
+
+Dados para contextualizar e embasar o produto podem ser primários (fonte, entrevista, observação, etc.) ou secundários (pesquisas anteriores, benchmark, bibiografia).
+
+Mapa de Empatia: Entender a percepção do produto
+
+![Alt text](img/mapaempatia.png)
+
+Aprimorar um produto existente ou criar um novo produto?
+
+![Alt text](img/decisaonovoproduto.png)
+
+Expansão da Marca:
+
+![Alt text](img/expansaomarca.png)
+
+- Ideação:
+    - Proposta de valor
+    - Criatividade
+    - Brainstorm
+
+Para conduzir as ideias promissoras da ideação, podemos utilizar a matriz de posicionamento:
+
+![Alt text](img/matrizposicionamento.png)

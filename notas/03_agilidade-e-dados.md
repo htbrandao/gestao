@@ -1,5 +1,12 @@
 # Agilidade e Dados
 
+
+<!-- https://unibb.alura.com.br/course/gestao-agil-conceitos-agilidade -->
+
+## Metodologias & Frameworks
+
+Metodologias são mais rídigas, enquanto frameworks são permeáveis para que o usuário, ou gestor, adeque a sua realidade. Um método é uma abordagem geral para a gestão de projetos.
+
 ## Lean: Foco na eficiência
 - Fluxo contínuo
 - Melhoria contínua
@@ -27,3 +34,39 @@
     - Equipes auto-organizadas
     - Reflexões regulares de melhoria
 
+___
+
+Cultura de experimentação e MVPs são bem vindos (ver [What is CRISP DM?](00_rascunho.md#1-what-is-crisp-dm-2023)).
+
+Enfatizar a colaboração e propiciar um ambiente sinérgico e comunicativo. Não reforçar a _Cultura do Herói_. Promover a diversidade de ideias e compartilhamento de responsabilidades.
+
+
+## Gestão 3.0:
+
+- Autonomia
+- Colaboração
+- Melhoria contínua
+- Liderança distribuída
+- Cultura de confiança e transparência
+- Foco nas pessoas e interações
+- Autogestão e responsabilidade individual
+
+___
+
+- Projetos:
+    - Único
+    - Objetivo definido
+    - Temporário
+    - Alta complexidade
+    - Bastante planejamento
+
+- Produtos:
+    - Ciclo de vida contínuo
+    - Melhorias e atualizações
+    - Gestão do produto
+    - Time de produto
+    - Foco no valor para o cliente
+    - Evolutivo
+
+
+<!-- https://unibb.alura.com.br/course/product-management-desenvolvimento-produtos -->

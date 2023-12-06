@@ -173,3 +173,49 @@ Atividades para hard skills: Projeto em equipe, soluções de problemas, treinam
 Atividades para soft skills: Palestras e workshops, desafios em grupos.
 
 5w2h: What, why, who, where, when, how and how much.
+
+<!--
+
+https://unibb.alura.com.br/course/lideranca-transformacional-criando-cultura-excelencia
+
+-->
+
+Cultura de feedback: Diálogo presente e aberto, de forma educada e confortável, não violenta. É importante haver uma frequência nos feedbacks.
+
+Tornar o momento de feedback algo habitual, e não um momento de confronto.
+
+Fomentar um ambiente inclusivo.
+
+<!--
+
+https://unibb.alura.com.br/course/scrum-agilidade-seu-projeto
+
+-->
+
+<!--
+
+https://unibb.alura.com.br/course/cultura-metodos-ageis-pilares-imersao-avancada
+
+-->
+
+![Alt text](img/complexidadeagil.png)
+
+<!--
+
+https://unibb.alura.com.br/course/kanban-analises-implementacao
+
+-->
+
+<!--
+
+https://unibb.alura.com.br/course/ferramentas-agilidade-visao-sobre-controle-projetos-produtos
+
+-->
+
+
+<!--
+
+https://unibb.alura.com.br/course/management-3-0-gerencie-ambiente-nao-pessoas
+
+-->
+

@@ -38,40 +38,9 @@ Metodologias são mais rídigas, enquanto frameworks são permeáveis para que o
     - Equipes auto-organizadas
     - Reflexões regulares de melhoria
 
-___
-
 Cultura de experimentação e MVPs são bem vindos (ver [What is CRISP DM?](00_rascunho.md#1-what-is-crisp-dm-2023)).
 
 Enfatizar a colaboração e propiciar um ambiente sinérgico e comunicativo. Não reforçar a _Cultura do Herói_. Promover a diversidade de ideias e compartilhamento de responsabilidades.
-
-
-## Gestão 3.0:
-
-- Autonomia
-- Colaboração
-- Melhoria contínua
-- Liderança distribuída
-- Cultura de confiança e transparência
-- Foco nas pessoas e interações
-- Autogestão e responsabilidade individual
-
-___
-
-- Projetos:
-    - Único
-    - Objetivo definido
-    - Temporário
-    - Alta complexidade
-    - Bastante planejamento
-
-- Produtos:
-    - Ciclo de vida contínuo
-    - Melhorias e atualizações
-    - Gestão do produto
-    - Time de produto
-    - Foco no valor para o cliente
-    - Evolutivo
-
 
 <!--
 
@@ -219,3 +188,41 @@ https://unibb.alura.com.br/course/management-3-0-gerencie-ambiente-nao-pessoas
 
 -->
 
+## Gestão 3.0:
+
+- Autonomia
+- Colaboração
+- Melhoria contínua
+- Liderança distribuída
+- Cultura de confiança e transparência
+- Foco nas pessoas e interações
+- Autogestão e responsabilidade individual
+
+- Projetos:
+    - Único
+    - Objetivo definido
+    - Temporário
+    - Alta complexidade
+    - Bastante planejamento
+
+- Produtos:
+    - Ciclo de vida contínuo
+    - Melhorias e atualizações
+    - Gestão do produto
+    - Time de produto
+    - Foco no valor para o cliente
+    - Evolutivo
+
+![Alt text](img/management.png)
+
+- 3.0:
+    - Gerenciar o ambiente, e não pessoas.
+    - Não realizar microgestão.
+    - O time funciona como uma entidade para resolver uma tarefa complexa.
+    - O time tem que estar no controle da sua gestão
+
+![Alt text](img/pilares30.png)
+
+![Alt text](img/movingmotivators.png)
+
+![Alt text](img/scaling.png)

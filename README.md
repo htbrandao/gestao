@@ -8,3 +8,4 @@ Focando em dados e agilidade:
 - PMBOK 7th (2021)
 - Artigos científicos
 - Artigos em blogs
+- Cursos da Alura

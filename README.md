@@ -1,4 +1,4 @@
-# Estudos sobre gestão e operações
+# Notas sobre operações e gestão em tecnologia
 
 <br><br>
 

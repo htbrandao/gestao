@@ -1,7 +1,7 @@
 # Notas sobre operações e gestão em tecnologia
 
 ### \# Gestão:
-  - [ ] [ITSM](./notas/gestao/)
+  - [ ] [ITSM](./notas/gestao/itsm.md)
   - [x] [PMBOK](./notas/gestao/pmbok.md)
   - [ ] [ITIL](./notas/gestao/)
   - [ ] [PMO](./notas/gestao/)

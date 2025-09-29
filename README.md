@@ -26,9 +26,10 @@
     - [x] [12 Factors](https://12factor.net/)
     - [x] [4 Golden Signals](https://www.elastic.co/blog/observability-metrics)
   - [ ] [Argo CD](./notas/)
-  
 
+  <br><br><br><br>
 
-
-
-
+  ### TODOs & FIXMEs
+  - [ ] reorganizar pastas
+  - [ ] renomear notas
+  - [ ] concentrar assuntos e tópicos

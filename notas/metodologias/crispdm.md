@@ -2,21 +2,21 @@
 
 **I) Introduction**
 
-![Alt text](img/crisp1.png)
+![](../img/crisp1.png)
 
 ___
 
 **II) Reference Model**
 
-![Alt text](img/crisp2.png)
+![](../img/crisp2.png)
 
-![Alt text](img/crisp3.png)
+![](../img/crisp3.png)
 
 1) Business Understanding: This initial phase focuses on understanding the project objectives and requirements
 from a business perspective, and then converting this knowledge into a data mining
 problem definition, and a preliminary plan designed to achieve the objectives.
 
-    ![Alt text](img/crisp4.png)
+    ![](../img/crisp4.png)
 
     - Outputs for each task:
         - A) Business Objectives; and Business Success Criteria
@@ -29,7 +29,7 @@ activities in order to get familiar with the data, to identify data quality prob
 discover first insights into the data, or to detect interesting subsets to form hypotheses
 for hidden information.
 
-    ![Alt text](img/crisp5.png)
+    ![](../img/crisp5.png)
 
     - Outputs for each task:
         - A) Initial Data Collection Report
@@ -43,7 +43,7 @@ are likely to be performed multiple times, and not in any prescribed order. Task
 include table, record, and attribute selection as well as transformation and cleaning of
 data for modeling tools.
 
-    ![Alt text](img/crisp6.png)
+    ![](../img/crisp6.png)
 
     - Outputs for each task: Data Set  and Data Set Description
         - A) Rationale for Inclusion/Exclusion
@@ -58,7 +58,7 @@ the same data mining problem type. Some techniques have specific requirements on
 the form of data. Therefore, stepping back to the data preparation phase is often
 needed.
 
-    ![Alt text](img/crisp7.png)
+    ![](../img/crisp7.png)
 
     - Outputs for each task:
         - A) Modeling Technique; and Modeling Assumptions
@@ -74,7 +74,7 @@ objectives. A key objective is to determine if there is some important business 
 that has not been sufficiently considered. At the end of this phase, a decision on the
 use of the data mining results should be reached.
 
-    ![Alt text](img/crisp8.png)
+    ![](../img/crisp8.png)
 
     - Outputs for each task:
         - A) Assessment of Data Mining Results w.r.t. Business Success Criteria; and Approved Models
@@ -91,7 +91,7 @@ even if the analyst will not carry out the deployment effort it is important for
 customer to understand up front what actions will need to be carried out in order to
 actually make use of the created models
 
-    ![Alt text](img/crisp9.png)
+    ![](../img/crisp9.png)
 
     - Outputs for each task:
         - A) Deployment Plan

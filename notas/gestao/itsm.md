@@ -1,2 +1,6 @@
-# IT Service Management (Gerenciamento de Serviços de TI
-
+- O PMBOK é uma metodologia para gerenciar projetos que têm um início e fim claros, enquanto o ITIL é um conjunto de processos para a gestão contínua de serviços de TI
+- PMBOK ajuda a gerenciar "o projeto" (iniciativa temporária), enquanto o ITIL ajuda a gerenciar "o serviço" (entregue de forma contínua)
+- ITIL e COBIT são complementares e podem ser usados em conjunto para uma governança de TI mais robusta
+- O COBIT define o "porquê" e o "o quê" (estratégia e controle), enquanto o ITIL se aprofunda no "como" (processos operacionais para entregar serviços)
+- 
+- 

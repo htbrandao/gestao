@@ -2,8 +2,8 @@
 
 ### \# Gestão:
   - [ ] [ITSM](./notas/gestao/itsm.md)
-  - [x] [PMBOK](./notas/gestao/pmbok.md)
-  - [ ] [ITIL](./notas/gestao/)
+  - [ ] [PMBOK](./notas/gestao/pmbok.md)
+  - [ ] [ITIL](./notas/gestao/itil.md)
   - [ ] [PMO](./notas/gestao/)
   - [ ] [COBIT 2019](./notas/)
   - [ ] [Métricas e Indicadores](./notas/gestao/)

@@ -41,14 +41,27 @@ Busca padronizar melhores práticas para o gerenciamento de serviços de TI, com
 
 ## 2. Sistema de Valor de Serviço (SVS)
 
-- 
-- 
-- 
-- 
+- Sistema que descrever como todos os componentes e atividades da organização trabalham como um sistema para permitir a criação de valor
+- Visa garantir a cooperação contínua das partes interessadas através do **uso e gerenciamento de produtos e serviços**
+- Suporta conceitos como Agile, DevOps e Lean. Modelo operacional orientado a valor flexível
+- Sistema que reage a entradas: oportunidades ou demandas:
+    - Oportunidade: possibilidade para agregar valor às partes interessadas
+    - Demandas: necessidade ou desejo de produtos e serviços entre os consumidores
+- Componentes:
+    - Princípios orientadores
+    - Governança
+    - Melhoria contínua
+    - Práticas
 
+## 3. Dimensões do gerenciamento de serviço
 
+- Pessoas
 
-## 3. Cadeia de Serviço de Valor e Dimensões (Pess, Tec, Fornec, Proc)
+- Técnica
+
+- Fornecedores
+
+- Processos
 
 
 

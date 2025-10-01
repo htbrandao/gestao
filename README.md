@@ -4,7 +4,7 @@
   - [ ] [ITSM](./notas/gestao/itsm.md)
   - [ ] [PMBOK](./notas/gestao/pmbok.md)
   - [x] [ITIL](./notas/gestao/itil.md)
-  - [ ] [PMO](./notas/gestao/)
+  - [ ] [PMO](./notas/gestao/pmo.md)
   - [ ] [COBIT 2019](./notas/)
   - [ ] [Métricas e Indicadores](./notas/gestao/)
   - [ ] [Gestão e Liderança](./notas/gestao/gestao.md)

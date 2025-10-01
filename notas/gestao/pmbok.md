@@ -1,6 +1,6 @@
 # PMBOK - PMBOK 7th Edition
 
-## I) Introduction
+## 1. Introduction
 
 This standard applies regardless of industry, location, size, or delivery approach, for example, predictive, hybrid, or adaptive. It describes the system within which projects operate, including governance, possible functions, the project environment, and considerations for the relationship between project management and product management.
 
@@ -38,28 +38,19 @@ This standard applies regardless of industry, location, size, or delivery approa
 
     - Value: The worth, importance, or usefulness of something. Different stakeholders perceive value in different ways. Customers can define value as the ability to use specific features or functions of a product. Organizations can focus on business value as determined with financial metrics, such as the benefits less the cost of achieving those benefits. Societal value can include the contribution to groups of people, communities, or the environment.
 
-## II) A System for Value Delivery
+## 2. A System for Value Delivery
+
+
+## 3. Project Management Principles
 
 
 
+<br><br><br><br>
 
+___
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-## III) Project Management Principles
-
-
-
+- O PMBOK é uma metodologia para gerenciar projetos que têm um início e fim claros, enquanto o ITIL é um conjunto de processos para a gestão contínua de serviços de TI
+- PMBOK ajuda a gerenciar "o projeto" (iniciativa temporária), enquanto o ITIL ajuda a gerenciar "o serviço" (entregue de forma contínua)
+- ITIL e COBIT são complementares e podem ser usados em conjunto para uma governança de TI mais robusta
+- O COBIT define o "porquê" e o "o quê" (estratégia e controle), enquanto o ITIL se aprofunda no "como" (processos operacionais para entregar serviços)
+ 

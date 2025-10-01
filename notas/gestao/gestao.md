@@ -131,6 +131,12 @@ Fomentar um ambiente inclusivo.
 ![](../img/scaling.png)
 
 
+## Project Managment Office (PMO)
+
+???
+
+
+
 <br><br><br><br>
 
 ## [[1] PMBOK: o que é e como é utilizado para gestão de projetos?](https://www.sydle.com/br/blog/pmbok-61e80383f41fbf069eb3ef2b)

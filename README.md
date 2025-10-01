@@ -3,11 +3,11 @@
 ### \# Gestão:
   - [ ] [ITSM](./notas/gestao/itsm.md)
   - [ ] [PMBOK](./notas/gestao/pmbok.md)
-  - [ ] [ITIL](./notas/gestao/itil.md)
+  - [x] [ITIL](./notas/gestao/itil.md)
   - [ ] [PMO](./notas/gestao/)
   - [ ] [COBIT 2019](./notas/)
   - [ ] [Métricas e Indicadores](./notas/gestao/)
-  - [ ] [Liderança](./notas/gestao/)
+  - [ ] [Gestão e Liderança](./notas/gestao/gestao.md)
 
 ### \# Metodologias:
   - [ ] [LEAN](./notas/metodologias/)

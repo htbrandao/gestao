@@ -78,23 +78,25 @@ Busca padronizar melhores práticas para o gerenciamento de serviços de TI, com
     - Esses recursos são agrupados nas quatro dimensões de **Gerenciamento de Serviços**
     - São **afetados** e interagem com o **SVS**
     - São **guiados** pela **CVS**
-- Práticas de Gerenciamento: Gerais _vs._ Serviços _vs._ Técnico. Ao todo são 34 práticas no ITIL 4, dentre elas:
+- **Práticas de Gerenciamento**: Gerais _vs._ Serviços _vs._ Técnico. Ao todo são 34 práticas no ITIL 4, dentre elas:
     - Gerais: (1) Melhoria Contínua;  (2) Segurança da Informação; (3) Relacionamentos; (4) Fornecedor
         1. Incentivar a melhoria; registro de melhoria; criar caso de negócio; planejamento de implementação de melhorias; metrificar e avaliar os resultados; coordenar as atividades
         2. proteger as informações necessárias a condução dos negócios da organização; gerenciar riscos (confidencialidade, integridade, disponibilidade, autenticação, etc); estabelecidada por meio de políticas, processos, comportamentos, etc; prevenção, detecção e correção
         3. estabelecer e nutrir os vínculos entre a organização e suas partes interessadas em níveis estratégicos e táticos; compreensão das partes interessadas; manutenção da satisfação; estabelecimento de prioridades bem articuladas; tratamento de reclamações; mediação apropriada de conflitos
         4. garantir que os fornecedores e seu desempenho sejam gerenciados de forma adequada; garantir a consistência e viabilidade do controle; estratégia e política para gerenciamento de contratos; negociação, contratos, acordos e arranjos; gerenciamento de relacionamento e desempenho;  
-    - Serviços: (5) Disponibilidade; (6) Capacidade e Desempenho; (7) Continuidade de Serviço; (8) Ativos de TI; (9) Configuração de Serviço; (10) Habilitação de Mudança; (11) Evento e Monitoração; (12) Incidentes; Problemas; (13) Requisição de Serviço; (14) Central de Serviço; (15) Nível de Serviço; (16) Liberação
-        5. habilidade de um serviço, ou outro item, para executar sua função quando necessário; acordar metas anlcançáveis de disponibilidade; projetar infraestrutura e aplicativos; coletar daos para aferir a disponibilidade; monitorar, analisar e relatar a disponibilidade 
-        6. garantir que serviços atinjam o desempenho acordado e esperado (SLA); planejamento de capacidade; previsão de demanda e planejamento de recursos; planejamento de melhoria de desempenho; análise de capacidade; pesquisa e monitoramento do desempenho atual; modelagem de capacidade e desempenho; 
-        7. garantir que a disponibilidade e desempenho sejam mantidos após um desastre; foco no negócio; análise de impacto de negócio (AIN); acionamento quando interrupção de serviço ou risco organizacional ocorre numa escala superior a da organização de lidar com as práticas normais
-        8. componente valioso que possa contribuir para uma entrega de produto ou seviço; gerenciar todo o clico de vida de todos os ativos de TI; definir, preencher e manter o registro de ativos; controlar o ciclo de vida; fornecer dados atuais e históricos; auditar ativos
-        9. qualquer componente que precise ser gerenciado para entregar um serviço de TI; sistema de gerenciamento de configuração; garantir que informações precisas e confiáveis sobre a configuração de serviços estejam disponíveis quando e onde forem necessárias; itens de configuração (IC);  
-        10. 
-        11. 
-        12. 
-        13. 
-        14. 
-        15. 
-    - Técnico: (17) Implantação
-        17. 
+    - Serviços: (5) Disponibilidade; (6) Capacidade e Desempenho; (7) Continuidade de Serviço; (8) Ativos de TI; (9) Configuração de Serviço; (10) Habilitação de Mudança; (11) Evento e Monitoração; (12) Incidentes; (13) Problemas; (14) Requisição de Serviço; (15) Central de Serviço; (16) Nível de Serviço; (17) Liberação
+        - 5. habilidade de um serviço, ou outro item, para executar sua função quando necessário; acordar metas anlcançáveis de disponibilidade; projetar infraestrutura e aplicativos; coletar daos para aferir a disponibilidade; monitorar, analisar e relatar a disponibilidade 
+        - 6. garantir que serviços atinjam o desempenho acordado e esperado (SLA); planejamento de capacidade; previsão de demanda e planejamento de recursos; planejamento de melhoria de desempenho; análise de capacidade; pesquisa e monitoramento do desempenho atual; modelagem de capacidade e desempenho; 
+        - 7. garantir que a disponibilidade e desempenho sejam mantidos após um desastre; foco no negócio; análise de impacto de negócio (AIN); acionamento quando interrupção de serviço ou risco organizacional ocorre numa escala superior a da organização de lidar com as práticas normais
+        - 8. componente valioso que possa contribuir para uma entrega de produto ou seviço; gerenciar todo o clico de vida de todos os ativos de TI; definir, preencher e manter o registro de ativos; controlar o ciclo de vida; fornecer dados atuais e históricos; auditar ativos
+        - 9. qualquer componente que precise ser gerenciado para entregar um serviço de TI; sistema de gerenciamento de configuração; garantir que informações precisas e confiáveis sobre a configuração de serviços estejam disponíveis quando e onde forem necessárias; itens de configuração (IC);  
+        - 10. adição, modificação ou remoção de qualquer coisa que possa ter efeito direto ou indireto sobre os serviços; precisam ser gerenciadas para adequar os riscos; escopo definido pela organização; mudanças podem ser padrão (frequentes e conhecidas), normais (agendadas e autorizadas) ou emergenciais (implementadas com tempestividade para resolver um incidente ou aplicar um patch); cronograma de mudança; indisponibilidade de serviço planejada (ISP); revisão pós implantação 
+        - 11. qualquer alteração de estado que tenha importância para o gerenciamento de um IC ou serviço; observar sistematicamente os serviços e seus componentes, registrar e relatar mudanças de estado; identificar o que deve ser monitorado; implementar manutenção de monitoramento; estabelecer e manter _tresholds_ e demais critérios; escopo de gerenciamento de eventos e monitoramento; implementar processos e automações para operacionalizar os limites, critérios e políticas
+        - 12. redução na qualidade ou interrupção não planejada de um serviço; minimizar o impacto negativo, restaurando a operação normal o mais rápido possível; todo incidente deve ser registrado e gerenciado; tempos de resolução são acordados, documentados e comunicados (SLA); incidentes devem ser priorizados (_a priori_) e seu grau definido; definir soluções de contorno; pode ser resolvido pelo próprio usuário, central de serviço, equipes de 2o nível, fornecedores ou parceiros
+        - 13. causa ou potencial causa de um (ou mais) incidentes; pode ser um erro conhecido; reduzir a probabilidade e o impacto dos incidentes, identificando a causa raiz de potenciais incidentes; problemas devem ter registro próprio, embora relacionados a incidentes; são a causa do incidente; exige investigação e análise; base de dados de erros conhecidos (BDEC); gerenciamento reativo ou proativo
+        - 14. ???
+        - 15. ???
+        - 16. ???
+        - 17. ???
+    - Técnico: (18) Implantação
+        - 18. ???

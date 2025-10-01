@@ -20,14 +20,31 @@ Busca padronizar melhores práticas para o gerenciamento de serviços de TI, com
 - Patrocinador é quem paga
 - Organização: Pessoa (ou grupo) que tem funlções e responsabilidades para atingir seus objetivos
 
-- 
-- 
+- Utilidade: funcionalidade oferecida por um produto ou serviço
+- Garantia: nível de desempenho do produto ou serviço
 
+- Resultados _vs._ Custos _vs._ Riscos
+    - Resultado _vs._ Saída: resultado é algo gerado, enquanto a  entrega (saída) é um corolário tangível (ou intangível) de uma **atividade**
 
+- ITIL enxerga três tipos de oferta de serviços: Bens (e.g.: servidor físico); acesso a recursos (e.g.: serviço de streaming); e ações de serviço (e.g.: suporte)
+
+- Relações de serviço
+
+- Princípio orientador: recomendação que guia uma organização em todas as circunstâncias
+    - Foco no valor
+    - Progresso iterativo com feedback
+    - Pensar e trabalhar **holisticamente**
+    - Não começar do zero
+    - Colaborar e promover a visibilidade
+    - Simplicidade e praticidade
+    - Otimizar antes de automatizar
 
 ## 2. Sistema de Valor de Serviço (SVS)
 
-
+- 
+- 
+- 
+- 
 
 
 
